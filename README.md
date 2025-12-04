@@ -30,4 +30,4 @@ Open to
 Connect
 - GitHub: https://github.com/prashanth-p-prabhu
 - LinkedIn: www.linkedin.com/in/prashanth-prabhu-67323125
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=prashanth-prabhu-67323125" target="_blank">Follow on LinkedIn</a>
+- Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=prashanth-prabhu-67323125
