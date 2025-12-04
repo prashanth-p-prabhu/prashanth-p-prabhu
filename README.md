@@ -11,18 +11,13 @@ What I do
 Core competencies
 - Cloud: AWS, GCP, Azure
 - Containers & Orchestration: Kubernetes, Docker
-- CI/CD & Automation: Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible
-- Observability: Prometheus, Grafana, ELK / OpenSearch, Datadog
-- Security: Policy-as-Code, Vault, RBAC, secrets management
+- Observability: Prometheus, Grafana, ELK / OpenSearch
+- Security: Vault, RBAC, secrets management
 - Databases & Storage: PostgreSQL, Redis, MongoDB, Elasticsearch
-- Languages & Scripting: Python, Go, Bash, JavaScript
+- Languages & Scripting: Bash, NodeJS, JavaScript
 
 Selected achievements
-- Scaled platforms supporting 10M+ daily transactions with 99.9% uptime
-- Drove 40% improvement in deployment frequency and 25% cloud cost reduction
-- Reduced security vulnerabilities by 80% through automated enforcement
-- Built and mentored 12+ technical leads across regions
-- Improved incident response time by 60% via observability-first practices
+
 
 Leadership philosophy
 I focus on empowerment, transparency, continuous learning, automation, and cross-functional collaboration to build reliable systems and healthy teams.
@@ -34,7 +29,4 @@ Open to
 
 Connect
 - GitHub: https://github.com/prashanth-p-prabhu
-- LinkedIn: Prashanth P Prabhu
-- Email: Available on request
-
-Last updated: 2025-12-04
+- LinkedIn: www.linkedin.com/in/prashanth-prabhu-67323125
